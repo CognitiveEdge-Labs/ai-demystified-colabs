@@ -1,0 +1,12 @@
+# AI: Demystified — Colab Labs
+*Decoding Models, Compute, and Connectivity*
+
+Click a badge to run in Google Colab:
+
+- **Lab 01: Vectors & Matrices**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/01_vectors_matrices.ipynb)
+
+- **Lab 02: PyTorch Tensors**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/02_pytorch_tensors.ipynb)
