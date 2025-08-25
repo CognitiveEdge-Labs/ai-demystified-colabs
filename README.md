@@ -19,4 +19,9 @@ Click a badge to run in Google Colab:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/04_embeddings_basics.ipynb)
 
+  - **Lab 05: Agentic AI (OpenRouter + CrewAI)**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/agentic-ai.ipynb)
+
+
 
