@@ -15,3 +15,8 @@ Click a badge to run in Google Colab:
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/03_tf_majority_of_three.ipynb)
 
+- **Lab 04: Embeddings (Similarity & Mini Search)**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/04_embeddings_basics.ipynb)
+
+
