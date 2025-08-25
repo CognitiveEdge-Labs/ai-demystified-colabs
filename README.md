@@ -10,3 +10,8 @@ Click a badge to run in Google Colab:
 - **Lab 02: PyTorch Tensors**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/02_pytorch_tensors.ipynb)
+
+  - **Lab 03: TF — Majority of 3**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/03_tf_majority_of_three.ipynb)
+
