@@ -11,7 +11,7 @@ Click a badge to run in Google Colab:
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/02_pytorch_tensors.ipynb)
 
- - **Lab 03: TF — Majority of 3**  
+ - **Lab 03: A Tiny Neural Network**  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/03_a_tiny_neural_network.ipynb)
 
