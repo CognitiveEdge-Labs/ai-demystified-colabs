@@ -15,11 +15,15 @@ Click a badge to run in Google Colab:
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/03_a_tiny_neural_network.ipynb)
 
-- **Lab 04: Embeddings (Similarity & Mini Search)**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/04_embeddings_basics.ipynb)
+ - **Lab 04: Transformers 101**  
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+ https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/04_transformers_101.ipynb)
 
- - **Lab 05: Agentic AI (OpenRouter + CrewAI)**  
+- **Lab 05: Embeddings (Similarity & Mini Search)**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/05_embeddings_basics.ipynb)
+
+ - **Lab 06: Agentic AI (OpenRouter + CrewAI)**  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/agentic-ai.ipynb)
 
