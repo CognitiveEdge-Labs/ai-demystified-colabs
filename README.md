@@ -27,7 +27,7 @@ Click a badge to run in Google Colab:
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/06_agentic_ai.ipynb)
 
- - **Lab 06: Agentic AI (OpenRouter + CrewAI)**  
+ - **Lab 07: RAG Implementation**  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
  https://colab.research.google.com/github/CognitiveEdge-Labs/ai-demystified-colabs/blob/main/07_rag_implementation.ipynb)
 
